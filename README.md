@@ -1,9 +1,6 @@
 # Video Assets Management
 
 ## Quickstart
-
-*This is to be used as a *reference\* in case you need it, you should follow the instructions in the course rather than trying to do everything here.
-
 ## 1. Install dependencies
 
 - [Go](https://golang.org/doc/install)
@@ -50,7 +47,7 @@ Copy the `.env.example` file to `.env` and fill in the values.
 cp .env.example .env
 ```
 
-You'll need to update values in the `.env` file to match your configuration, but _you won't need to do anything here until the course tells you to_.
+You'll need to update values in the `.env` file to match your configuration.
 
 ## 3. Run the server
 
